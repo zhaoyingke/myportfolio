@@ -3587,3 +3587,23 @@ input, select, textarea {
 			}
 
 		}
+
+.firstcharacter {
+  color: #b05080;
+  float: left;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.daigou{
+	background-color: #000000
+}
+
+.daigoutitle{
+	color: #ffffff
+}
